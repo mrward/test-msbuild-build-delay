@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSBuildDelayBuildTest", "MSBuildDelayBuildTest\MSBuildDelayBuildTest.csproj", "{1ACCE80F-D49A-40F1-898A-5DD120B66289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSBuildDelayBuildTest.Console", "MSBuildDelayBuildTest.Console\MSBuildDelayBuildTest.Console.csproj", "{E0EE2BCA-7A18-4BB3-A4F4-50150E9C49D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACCE80F-D49A-40F1-898A-5DD120B66289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACCE80F-D49A-40F1-898A-5DD120B66289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACCE80F-D49A-40F1-898A-5DD120B66289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACCE80F-D49A-40F1-898A-5DD120B66289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EE2BCA-7A18-4BB3-A4F4-50150E9C49D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EE2BCA-7A18-4BB3-A4F4-50150E9C49D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EE2BCA-7A18-4BB3-A4F4-50150E9C49D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EE2BCA-7A18-4BB3-A4F4-50150E9C49D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
